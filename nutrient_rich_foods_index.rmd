@@ -1,6 +1,8 @@
 ---
 title: "Calculating the Nutrient Rich Foods Index Using R"
-author: "Cathal O'Hara"
+author: |
+  | Cathal O'Hara
+  | [about.me/cathalohara](https://about.me/cathalohara)
 date: "2021-07-19"
 output:
   html_document:
