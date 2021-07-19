@@ -1,0 +1,29 @@
+﻿@article{RN1688,
+   author = {Cooper, S. L. and Pelly, F. E. and Lowe, J. B.},
+   title = {Construct and criterion-related validation of nutrient profiling models: A systematic review of the literature},
+   journal = {Appetite},
+   volume = {100},
+   pages = {26-40},
+   ISSN = {1095-8304 (Electronic)
+0195-6663 (Linking)},
+   DOI = {10.1016/j.appet.2016.02.001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26850312},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN1392,
+   author = {Drewnowski, A.},
+   title = {Defining nutrient density: development and validation of the nutrient rich foods index},
+   journal = {J Am Coll Nutr},
+   volume = {28},
+   number = {4},
+   pages = {421S-426S},
+   ISSN = {1541-1087 (Electronic)
+0731-5724 (Linking)},
+   DOI = {10.1080/07315724.2009.10718106},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20368382},
+   year = {2009},
+   type = {Journal Article}
+}
+
