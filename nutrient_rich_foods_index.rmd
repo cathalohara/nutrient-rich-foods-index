@@ -140,4 +140,6 @@ Each food now has an NRF score assigned to it and is ready for further analysis 
 
 This post was written using R Markdown, and the .rmd file used to create it is available here: https://github.com/cathalohara/nutrient-rich-foods-index
 
+Copyright &copy; 2021 by Cathal O'Hara
+
 # References
