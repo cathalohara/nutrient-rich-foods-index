@@ -10,6 +10,7 @@ output:
     toc_float: true
 bibliography: bibliography.bibtex
 ---
+<base target="_blank"/>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
